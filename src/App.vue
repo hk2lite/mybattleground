@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>My Battleground ?</h1>
+    <p>Changes has been made</p>
   </div>
 </template>
 <script>
